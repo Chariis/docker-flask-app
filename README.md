@@ -3,7 +3,7 @@
 A simple Python Flask app running in a Docker container.
 
 ## Features
-- Python 3.10
+- Python alpine
 - Flask
 - Docker containerization
 
